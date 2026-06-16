@@ -1,0 +1,6 @@
+{
+  "name": "Pastel Pet Raising",
+  "description": "A delightful pastel-themed pet raising simulator with interactive kitchen, garden, and bedroom spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
